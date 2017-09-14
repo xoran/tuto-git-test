@@ -1,0 +1,4 @@
+<?php
+$name = 'Alain';
+echo 'Hello World<br>';
+echo 'my name is '. $name;
