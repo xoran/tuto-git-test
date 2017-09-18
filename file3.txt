@@ -13,4 +13,6 @@ function KTcirc($diametre) {
    return $circ;	
 }
 
+echo KTcirc(22);
+
  
