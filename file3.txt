@@ -1,0 +1,16 @@
+<?php
+
+/* Issue 01 */
+/* 
+  Ajout d'une constante bidon pour régler un problème bidon :)	
+*/
+
+define('K_PI', 3,1415926);
+
+function KTcirc($diametre) {
+   $circ = null;	
+   $circ = K_PI * $diametre;
+   return $circ;	
+}
+
+ 
